@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": 4,
+        "pregunta": "A quien pertenece dicha frase,'pienso,luego existo'",
+        "respuesta": "Rene Descartes",
+        "incorrecta1": "Galileo Galilei",
+        "incorrecta2": "Nicolas Copernico",
+        "incorrecta3": "Luis XIV"
+    },
+    {
+        "categoria": 4,
+        "pregunta": "Que significó el titulo de \"Adelantado\" durante la conquista de america?",
+        "respuesta": "Adelantar tierras para la Cristiandad",
+        "incorrecta1": "Adelantarse a los demas",
+        "incorrecta2": "Adelantar riquezas a la corona",
+        "incorrecta3": "Adelantar la guerra de conquista"
+    },
+    {
+        "categoria": 4,
+        "pregunta": "A que se denomina Aristocracia?",
+        "respuesta": "Poder de los nobles",
+        "incorrecta1": "Poder de los burgueses",
+        "incorrecta2": "Poder de los plebeyos",
+        "incorrecta3": "Poder del pueblo"
+    },
+    {
+        "categoria": 4,
+        "pregunta": "El ostracismo en Atenas era?",
+        "respuesta": "Destierro por 10 años",
+        "incorrecta1": "Destierro por 20 años",
+        "incorrecta2": "Destierro de por vida",
+        "incorrecta3": "Destierro de 3 años"
+    },
+    {
+        "categoria": 4,
+        "pregunta": "Cual es el teórico q justifico a los monarcas absolutos?",
+        "respuesta": "Jacobo Vossuet",
+        "incorrecta1": "Juan de mariana",
+        "incorrecta2": "Jean-Jacques Rousseau",
+        "incorrecta3": "Francisco Suarez"
+    }
+]

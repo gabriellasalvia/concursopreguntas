@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": 5,
+        "pregunta": "Que significa Talasocrasia?",
+        "respuesta": "Poder en el mar",
+        "incorrecta1": "Poder en el aire",
+        "incorrecta2": "Poder en la tierra",
+        "incorrecta3": "Poder divino"
+    },
+    {
+        "categoria": 5,
+        "pregunta": "Cómo se llamó la teoría de equilibrio de poderes estatales?",
+        "respuesta": "Frenos y contrapesos",
+        "incorrecta1": "De estabilidad",
+        "incorrecta2": "De equilibrio",
+        "incorrecta3": "Favorable"
+    },
+    {
+        "categoria": 5,
+        "pregunta": "Cómo le llamaron los incas a su población trabajadora?",
+        "respuesta": "Hatunruna",
+        "incorrecta1": "Pallas",
+        "incorrecta2": "Pucaras",
+        "incorrecta3": "Curaca"
+    },
+    {
+        "categoria": 5,
+        "pregunta": "Que monumento Megalítico fue utilizado como sepulcro?",
+        "respuesta": "Dolmen",
+        "incorrecta1": "Cromlech",
+        "incorrecta2": "Menhir",
+        "incorrecta3": "Caverna"
+    },
+    {
+        "categoria": 5,
+        "pregunta": "Tumba donde se descubrió al Faraón Tutankamón?",
+        "respuesta": "Hipogeo",
+        "incorrecta1": "Pirámide",
+        "incorrecta2": "Templo",
+        "incorrecta3": "Palacio"
+    }
+]

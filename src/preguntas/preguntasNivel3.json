@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": 3,
+        "pregunta": "Que instumento se utilizó para medir la latitud en navegación?",
+        "respuesta": "Astrolabio",
+        "incorrecta1": "Brujula",
+        "incorrecta2": "Telescopio",
+        "incorrecta3": "Cartas nauticas"
+    },
+    {
+        "categoria": 3,
+        "pregunta": "Cual comida es típica Rioplatense?",
+        "respuesta": "Asado",
+        "incorrecta1": "Sushi",
+        "incorrecta2": "Paellas",
+        "incorrecta3": "Tamales"
+    },
+    {
+        "categoria": 3,
+        "pregunta": "Uruguay limita con?",
+        "respuesta": "Argentina y Brasil",
+        "incorrecta1": "Argentina y Paraguay",
+        "incorrecta2": "Brasil y Paraguay",
+        "incorrecta3": "Paraguay y Bolivia"
+    },
+    {
+        "categoria": 3,
+        "pregunta": "Que rio es el mas largo de américa del sur?",
+        "respuesta": "Amazonas",
+        "incorrecta1": "Parana",
+        "incorrecta2": "Uruguay",
+        "incorrecta3": "Pilcomayo"
+    },
+    {
+        "categoria": 3,
+        "pregunta": "Que desierto se encuentra al norte de Chile?",
+        "respuesta": "Atacama",
+        "incorrecta1": "Sahara",
+        "incorrecta2": "Namib",
+        "incorrecta3": "Arábigo"
+    }
+]
